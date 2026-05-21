@@ -2,17 +2,11 @@
 
 <h1>Hey 👋 I'm Joshi</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Frontend+Engineer;Next.js+%2B+React+Developer;Open+Source+Builder;AI+Product+Developer;Building+CareerForge" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Frontend+Engineer;Next.js+Developer;Open+Source+Builder;AI+Product+Developer;Building+CareerForge" />
 
 <img src="https://komarev.com/ghpvc/?username=JoshiNaidu&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 
-<br/><br/>
-
-<h3>
-Open Source Builder • React/Next.js Engineer • Building CareerForge
-</h3>
+<h3>Open Source Builder • React/Next.js Engineer • Building CareerForge</h3>
 
 <p>
 Building scalable frontend systems, AI-powered platforms, and developer tooling.
@@ -24,20 +18,20 @@ Building scalable frontend systems, AI-powered platforms, and developer tooling.
 
 </div>
 
+## 🚀 About Me
+
 * 💻 Frontend Engineer with 4+ years experience
 * ⚛️ Specialized in React.js, Next.js & TypeScript
 * 🤖 Building AI-powered platforms & developer tooling
 * 🌍 Open-source creator of CareerForge
 * 🎯 Focused on performance, UX & scalable architecture
-* 🚀 Building real-time systems, AI workflows & modern frontend infra
+* 🚀 Building real-time systems, AI workflows & frontend infra
 
----
-
-# 🔥 Current Focus — CareerForge
+## 🔥 Current Focus — CareerForge
 
 <div align="center">
 
-## 🚀 Open-source AI career operating system for developers
+### 🚀 Open-source AI career operating system for developers
 
 </div>
 
@@ -50,17 +44,13 @@ Building scalable frontend systems, AI-powered platforms, and developer tooling.
 * 🤝 Open Source Collaboration
 * ⚡ Developer Productivity Ecosystem
 
-<br/>
-
 <div align="center">
 
 ### 🌐 https://www.careerforges.app/
 
 </div>
 
----
-
-# 🛠 Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -68,19 +58,13 @@ Building scalable frontend systems, AI-powered platforms, and developer tooling.
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,html,css,js" />
 
-<br/><br/>
-
 ### UI / Styling
 
 <img src="https://skillicons.dev/icons?i=tailwind,materialui,sass" />
 
-<br/><br/>
-
 ### Backend / APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-<br/><br/>
 
 ### Dev Tools
 
@@ -88,11 +72,9 @@ Building scalable frontend systems, AI-powered platforms, and developer tooling.
 
 </div>
 
----
+## 📌 Featured Projects
 
-# 📌 Featured Projects
-
-## 🚀 CareerForge
+### 🚀 CareerForge
 
 AI-powered open-source career ecosystem for developers.
 
@@ -114,29 +96,19 @@ Complex enterprise dashboards, workflows & analytics systems.
 
 Performance-focused applications with scalable architecture and reusable component systems.
 
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoshiNaidu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoshiNaidu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshiNaidu&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshiNaidu&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiNaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiNaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -144,9 +116,7 @@ Performance-focused applications with scalable architecture and reusable compone
 
 </div>
 
----
-
-# 🌎 Connect With Me
+## 🌎 Connect With Me
 
 <div align="center">
 
@@ -164,17 +134,9 @@ Performance-focused applications with scalable architecture and reusable compone
 
 </div>
 
----
-
 <div align="center">
 
 ## ⚡ Building products that combine AI + UX + scalable frontend engineering
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://github.com/JoshiNaidu/JoshiNaidu/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
