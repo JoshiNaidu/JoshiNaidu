@@ -1,44 +1,28 @@
-````md
 <div align="center">
 
-# Hey 👋 I'm Joshi
+<h1>Hey 👋 I'm Joshi</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=Frontend+Engineer;Next.js+%2B+React+Developer;Open+Source+Builder;AI+Product+Developer;Building+CareerForge" />
 
-<br/>
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=JoshiNaidu&label=Profile+Views&color=7C3AED&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=JoshiNaidu&label=Profile+Views&color=7C3AED&style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
-### Open Source Builder • React/Next.js Engineer • Building CareerForge
+<h3>
+Open Source Builder • React/Next.js Engineer • Building CareerForge
+</h3>
 
 <p>
 Building scalable frontend systems, AI-powered platforms, and developer tooling.
 </p>
 
-<p>
-  <a href="https://www.careerforges.app/">
-    <img src="https://img.shields.io/badge/CareerForge-Open%20Source%20AI%20Career%20Platform-7C3AED?style=for-the-badge" />
-  </a>
-</p>
+<a href="https://www.careerforges.app/">
+  <img src="https://img.shields.io/badge/CareerForge-Open%20Source%20AI%20Career%20Platform-7C3AED?style=for-the-badge" />
+</a>
 
 </div>
-
----
-
-# 🚀 About Me
-
-```ts
-const joshi = {
-  role: "Frontend Engineer",
-  experience: "4+ Years",
-  location: "Hyderabad, India",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind"],
-  currentFocus: "AI-powered developer products",
-  building: "CareerForge",
-};
-````
 
 * 💻 Frontend Engineer with 4+ years experience
 * ⚛️ Specialized in React.js, Next.js & TypeScript
