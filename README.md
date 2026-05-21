@@ -94,7 +94,7 @@ Enterprise HR management platform with complex dashboards and workflows.
 ## 🌎 Connect With Me
 
 - Portfolio: https://mattajoshi.in
-- LinkedIn: add-your-link
+- LinkedIn: https://www.linkedin.com/in/matta-joshi-mani-pavan-akash-44b2b512a
 - Email: joshimatta@gmail.com
 
 ---
